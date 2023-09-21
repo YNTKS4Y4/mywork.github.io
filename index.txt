@@ -1366,20 +1366,16 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/247446
 http://37.49.230.42:8080/stadnik/6a627b52a9/264748
 
 #EXTINF:0 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197972
+http://37.49.230.42:8080/stadnik/6a627b52a9/197972
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_id=217544427
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:0 tvg-id="" tvg-name="HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies",HBO Family  
-http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd?token_zulkarnaien66
+http://37.49.230.42:8080/stadnik/6a627b52a9/197055
 
 #EXTINF:0 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies",HBO Hits
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/196480
+http://37.49.230.42:8080/stadnik/6a627b52a9/196480
 
 #EXTINF:0 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies",HBO Signature
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/221948
+http://37.49.230.42:8080/stadnik/6a627b52a9/221948
 
 #EXTINF:0  group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrK0BmR_rwkMqKcD2zvTkcpQ-5XKjEr-012g&usqp=CAU",HBO Extreme
 http://208.115.225.174:14165
